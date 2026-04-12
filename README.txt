@@ -1,0 +1,1 @@
+Upload every file in this folder to /var/www/altivaraglobal.com/ and overwrite the existing site files. No build step is required.
